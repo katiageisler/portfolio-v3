@@ -96,7 +96,6 @@ const NavbarLogo = styled('div',{
 
 
 interface NavbarProps {
-  children: React.ReactNode
 
 }
 
