@@ -34,7 +34,7 @@ export default function Page() {
               composition as much as finding creative solutions using JavaScript and React.
             </p>
 
-            <Link href="./CV Katia_Geisler.pdf">
+            <Link href="projects/about/CV.pdf">
               <Heading title="Résumé"/>
             </Link>
           </Text>
