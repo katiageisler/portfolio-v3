@@ -23,6 +23,8 @@ export const { styled, globalCss, keyframes, theme, createTheme, config } = crea
   media: { ...breakpoints },
 })
 
+// @ts-ignore
 export const lightTheme = createTheme({ colors: { ...lightThemeColors } })
+// @ts-ignore
 export const darkTheme = createTheme({ colors: { ...darkThemeColors } })
 export const globalStyles = globalCss({ ...globalStyle })
