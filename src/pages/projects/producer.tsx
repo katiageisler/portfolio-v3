@@ -13,7 +13,14 @@ export default function Page() {
     </PageBlock>
 
     <PageBlock width="large">
-          <Video src="/projects/producer/PRODUCER__.webm" />
+    <center>
+        <iframe 
+        width= "100%" height="530px" 
+        src="https://www.youtube.com/embed/PNQScs2ZYks" 
+        title="YouTube video player" 
+        allow="accelerometer; autoplay; 
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        </center>
         </PageBlock>
 
     <ProjectInfo 
@@ -39,7 +46,7 @@ export default function Page() {
           listItems: [
             { title: 'Business Development' },
             { title: 'Marketing Strategy' },
-            { title: 'Ux/UI Design' }
+            { title: 'UX/UI Design' }
           ]
         },
         { 
