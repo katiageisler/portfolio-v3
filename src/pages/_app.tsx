@@ -13,7 +13,9 @@ export default function App({ Component, pageProps }: AppProps) {
       disableTransitionOnChange
       attribute="class"
       value={{ light: lightTheme, dark: darkTheme }}
-      enableSystem={ true }
+      enableSystem={ false }
+      defaultTheme="dark"
+      
     >
       <Navbar></Navbar>
       <Component {...pageProps} />
