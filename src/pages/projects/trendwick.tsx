@@ -20,7 +20,7 @@ export default function Page() {
         src="https://www.youtube.com/embed/E1in8cWsLmw" 
         title="YouTube video player" 
         allow="accelerometer; autoplay; 
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
         </center>
           
         </PageBlock>
