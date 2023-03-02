@@ -42,7 +42,7 @@ interface ListProps {
   fontSize?: 'l0' | 'l1' | 'l2' | 'l3'
   spacing?: 'l0' | 'l1' | 'l2'
   listItems: {
-    title: string
+  title: string
   }[]
 }
 

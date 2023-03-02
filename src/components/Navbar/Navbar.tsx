@@ -128,7 +128,7 @@ export const Navbar = ({}:NavbarProps) => {
             <NavBarLinks>
               <Link href="/"><Heading size="l2" bold title="Work" /></Link>
               <Link href="/about"><Heading size="l2" bold title="About" /></Link>
-              <Link href="mailto:katiacopywriting@gmail.com"><Heading size="l2" bold title="Contact" /></Link>
+              <Link href="mailto:katia.leitegeisler@gmail.com"><Heading size="l2" bold title="Contact" /></Link>
             </NavBarLinks>
           </NavbarAnimation>
       </NavbarContent>
