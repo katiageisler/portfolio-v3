@@ -5,14 +5,12 @@ import Link from 'next/link'
 export default function Page() {
   return (
 
-    <SiteContainer pageBlockSpacing="l2">
-
-      
+  <SiteContainer pageBlockSpacing="l2">
     <PageBlock width="large">
-      <Hero 
-     image='/projects/escudo/headerlogo.png' altImage=''
-     title="Escudo"
-     subTitle="A surfboard cover that protects the surfboard and the sea" />
+        <Hero 
+          image='/projects/escudo/headerlogo.png' altImage=''
+          title="Escudo"
+          subTitle="A surfboard cover that protects the surfboard and the sea" />
     </PageBlock>
 
     <PageBlock width="medium">

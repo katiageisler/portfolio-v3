@@ -17,7 +17,7 @@ const Square = styled('div', {
   // left: 0,
   // right: 0,
   // bottom: 0
-  // those attributes will always be used whenyou want to use position:absolute
+  // those attributes will always be used when you want to use position:absolute
 })
 
 
@@ -53,7 +53,7 @@ export default function Page() {
         height: 100, 
       }}></div>
 
-<div style={{ 
+    <div style={{ 
         position: 'absolute',
         bottom: 0,
         right: 0,
@@ -63,6 +63,5 @@ export default function Page() {
       }}></div>
     </Square>
   </SiteContainer>
-
-)
+  )
 }

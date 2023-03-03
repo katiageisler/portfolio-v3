@@ -2,7 +2,7 @@ import React from 'react'
 import { styled } from '@theme'
 
 // For the master container of the text component
-// This holds the automoations of spacing and the text size of the content within the component
+// This holds the automations of spacing and the text size of the content within the component
 
 const TextWrap = styled('div', {
   position: 'relative',

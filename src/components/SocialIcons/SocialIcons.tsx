@@ -81,7 +81,6 @@ export const SocialIcons = () => {
 
     <SocialWrap>
       <ul>
-
         <li>
           <a href="https://www.linkedin.com/in/katia-geisler-584134122/" target="_blank" title="LinkedIn" rel="noreferrer">
             <svg viewBox="0 0 512 512">
@@ -103,7 +102,6 @@ export const SocialIcons = () => {
 						</svg>
         	</a>
         </li>
-
       </ul>
     </SocialWrap>
 

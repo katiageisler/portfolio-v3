@@ -37,7 +37,7 @@ const LinkAnimation = styled('div', {
       width: '100%',
       height: 4, //height of the actual element, in this case the line
       background: '#fff',
-      //to create a line I alwys need the properties width, height and background
+      //to create a line I always need the properties width, height and background
       transform: 'scale( 0 , 1 )',
       transition: '$s2'
       //for transformations you always need the two properties transform and transition
