@@ -296,7 +296,7 @@ export default function Page() {
     <NextProject 
       pageLink="./mainsquare"
       title="Mainsquare"
-      image="/projects/mainsquare/wireframemainsquare.png"
+      image="/projects/mainsquare/useflowapp.png"
       altImage="Mainsquare image"
     />
   </SiteContainer>
