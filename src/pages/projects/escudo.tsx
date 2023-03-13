@@ -212,7 +212,7 @@ export default function Page() {
 
     <PageBlock width="medium">
       <ImageContainer 
-        image="/projects/escudo/seaqual.jpg"
+        image="/projects/escudo/seaqual.png"
         imageAlt="Seaqual production process"
       />
     </PageBlock>
