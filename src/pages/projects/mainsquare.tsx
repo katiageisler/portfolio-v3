@@ -180,7 +180,7 @@ export default function Page() {
 
     <PageBlock width="large">
       <ImageContainer 
-        image="/projects/mainsquare/wireframemainsquare.png"
+        image="/projects/mainsquare/wireframe.png"
         imageAlt="wireframe of the mainsquare app"
       />
     </PageBlock>
