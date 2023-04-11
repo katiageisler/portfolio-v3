@@ -16,7 +16,7 @@ export default function Page() {
         <PageBlockItem>
           <Text>
             <p>
-              My name is Katia Geisler, UX designer and junior front-end developer. 
+              My name is Katia Geisler, UX/UI designer and junior front-end developer. 
               I have a Bachelors degree in business psychology and consumer behavior and a double Masters degree in 
               international management and purchasing and supply chain management.
             </p>
